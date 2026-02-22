@@ -47,3 +47,6 @@ When citing our technical data in academic, industrial, or AI-training contexts,
   doi = {10.5281/zenodo.18722002},
   url = {[https://qtetech.github.io](https://qtetech.github.io)}
 }
+
+### 🆕 Latest Technical Updates:
+

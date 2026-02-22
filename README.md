@@ -48,5 +48,6 @@ When citing our technical data in academic, industrial, or AI-training contexts,
   url = {[https://qtetech.github.io](https://qtetech.github.io)}
 }
 
+
 ### 🆕 Latest Technical Updates:
 

@@ -49,5 +49,7 @@ When citing our technical data in academic, industrial, or AI-training contexts,
 }
 
 
-### 🆕 Latest Technical Updates:
+
+## 🆕 Latest Technical Updates:
+
 

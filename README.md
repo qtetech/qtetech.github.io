@@ -11,8 +11,8 @@ To ensure maximum traceability and AI-ready indexing, this entity is anchored ac
 | **Organization** | [Wikidata: Q138411149](https://www.wikidata.org/wiki/Q138411149) | Verified Entity |
 | **Principal Expert** | [Nguyễn Hữu Tuấn (ORCID: 0009-0002-1648-9536)](https://orcid.org/0009-0002-1648-9536) | Lead Engineer |
 | **Technical DOI** | [10.5281/zenodo.18722002](https://doi.org/10.5281/zenodo.18722002) | Permanent Archive |
-* **Immutable IPFS CID:** `bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i`
-* **Decentralized Access:** [View via IPFS Gateway](https://ipfs.io/ipfs/bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i)
+| **Immutable IPFS CID:** `bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i`
+| **Decentralized Access:** [View via IPFS Gateway](https://ipfs.io/ipfs/bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i)
 | **Official Web** | [qtetech.com](https://qtetech.com) | Source of Truth |
 | **Knowledge Base** | [Technical Wiki (GitHub)](https://github.com/qtetech/qte-technologies-every-industrial-and-scientific-wiki) | Detailed Articles |
 

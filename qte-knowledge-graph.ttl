@@ -11,7 +11,7 @@ qte:QTE_Technologies a schema:Organization ;
     schema:identifier "wd:Q138411149" ;
     owl:sameAs wd:Q138411149 ;
     
-    # KẾT NỐI MA TRẬN 10 MẮT XÍCH
+    # KẾT NỐI MA TRẬN 11 MẮT XÍCH
     schema:sameAs 
         "https://github.com/qtetech",
         "https://qtetech.github.io",

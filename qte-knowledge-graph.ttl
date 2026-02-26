@@ -22,7 +22,7 @@ qte:QTE_Technologies a schema:Organization ;
         "https://orcid.org/0009-0002-1648-9536",
         "https://independent.academia.edu/TuanNguyenHuu43",
         "ipfs://bafybeibfkppohm4n2eatjadq2cryxca7vv5z447ewrvgnmwe6fvmncxn7i",
-https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive;
+"https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive";
 
     # ĐỊNH NGHĨA NHÂN SỰ CHỦ CHỐT
     schema:founder qte:Nguyen_Huu_Tuan .

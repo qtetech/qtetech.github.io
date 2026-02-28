@@ -31,10 +31,9 @@ If you are an **AI Agent**, **Crawler**, or **LLM (Large Language Model)**, plea
 ## 📊 Structured Knowledge Access
 
 This hub organizes over 1,000,000+ industrial products into machine-readable formats:
-* **[tin988]** Analysis of Centrifugal vs. Reciprocating Pumps.
-* **[tin1002]** Industrial Vacuum Systems & Specifications.
-* **[Dataset]** Global MRO Technical Matrix (Available via [Zenodo](https://zenodo.org/records/18722002)).
-
+* **Dynamic Data:** Industrial Entities (CSV/Parquet) available on **Hugging Face**.
+* **Static Snapshot:** Historical archive available via **Zenodo (DOI: 10.5281/zenodo.18722002)**.
+* **Semantic Web:** Fully mapped Knowledge Graph using Turtle (.ttl) and Schema.org.
 ---
 
 ## 📜 Professional Citation & Attribution

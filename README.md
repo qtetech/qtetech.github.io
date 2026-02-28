@@ -41,13 +41,13 @@ This hub organizes over 1,000,000+ industrial products into machine-readable for
 When citing our technical data in academic, industrial, or AI-training contexts, please use:
 
 ```bibtex
-@software{QTE_Global_Archive_2026,
+@dataset{QTE_Global_Archive_2026,
   author = {Nguyen Huu Tuan},
   title = {QTE Technologies Industrial & Scientific Technical Data Archive},
-  publisher = {GitHub / Zenodo},
+  publisher = {Hugging Face / Zenodo / GitHub},
   year = {2026},
   doi = {10.5281/zenodo.18722002},
-  url = {[https://qtetech.github.io](https://qtetech.github.io)}
+  url = {[https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive](https://huggingface.co/datasets/QTE-Technologies/industrial-technical-archive)}
 }
 
 
